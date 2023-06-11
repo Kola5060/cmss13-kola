@@ -325,6 +325,11 @@ var/global/list/job_command_roles = JOB_COMMAND_ROLES_LIST
 #define JOB_XENOMORPH    "Xenomorph"
 #define JOB_XENOMORPH_QUEEN  "Queen"
 
+//-------- CBRN --------//
+#define JOB_CBRN_TL "USCM CBRN - Team Leader"
+#define JOB_CBRN_RFN "USCM CBRN - Rifleman"
+
+
 // For coloring the ranks in the statistics menu
 #define JOB_PLAYTIME_TIER_1  (10 HOURS)
 #define JOB_PLAYTIME_TIER_2  (25 HOURS)
